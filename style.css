@@ -1,0 +1,11 @@
+body {
+    background-color:black;
+    font-family:Arial,sans-serif;
+    color:rgb(212, 212, 212);
+}
+p {
+    line-height: 1.6;
+ }
+img {
+    border-radius: 12px;
+}
